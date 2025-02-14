@@ -1,0 +1,11 @@
+#output
+Input: Target = 5, K = 2
+Output: The 2nd ancestor of node 5 is 1
+
+
+The expected output for target = 5 and k = 2 should be:
+
+The 2th ancestor of node 5 is: 1
+If k is too large (e.g., k = 3 for node 5), the output will be:
+
+The 3th ancestor of node 5 does not exist.
