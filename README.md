@@ -1,5 +1,12 @@
 # Kth-Ancestor-Binary-Tree
 This project finds the Kth ancestor of a given node in a binary tree using recursion.  It traverses the tree, backtracks when necessary, and counts ancestors.  The approach ensures efficiency by using depth-first search (DFS).  Handles cases where the Kth ancestor does not exist.
+
+        1
+       / \
+      2   3
+     / \  / \
+    4   5 6  7
+    
 # Kth Ancestor in a Binary Tree
 
 ![Binary Tree]
