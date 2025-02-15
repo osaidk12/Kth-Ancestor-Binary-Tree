@@ -75,3 +75,14 @@ int main() {
 
     return 0;
 }
+
+/*
+        1
+       / \
+      2   3
+     / \  / \
+    4   5 6  7
+    
+    The 2th ancestor of node 5 is: 1
+
+    */
